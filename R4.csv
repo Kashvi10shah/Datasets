@@ -1,5 +1,25 @@
-,Age Group,count
-1,Adult,3566
-2,Old,903
-3,Very Old,236
-0,Teenager,190
+,Age Group,year,count
+5,Teenager,2020,11
+23,Very Old,2020,17
+4,Teenager,2019,29
+3,Teenager,2018,33
+1,Teenager,2016,36
+0,Teenager,2015,37
+19,Very Old,2016,38
+18,Very Old,2015,39
+22,Very Old,2019,44
+2,Teenager,2017,44
+20,Very Old,2017,45
+21,Very Old,2018,53
+17,Old,2020,63
+15,Old,2018,154
+13,Old,2016,157
+14,Old,2017,166
+16,Old,2019,169
+12,Old,2015,194
+11,Adult,2020,283
+10,Adult,2019,616
+9,Adult,2018,648
+8,Adult,2017,651
+7,Adult,2016,673
+6,Adult,2015,695
